@@ -1,0 +1,7 @@
+# data.yaml
+
+train: C:/Kuliah/Course Yolo/YoloClassification/dataset/train
+val: C:/Kuliah/Course Yolo/YoloClassification/dataset/val
+
+nc: 80  # Number of classes (change this to your number of classes)
+names: ['cloudy', 'rain', 'shine', 'sunrise']  # List of class names
